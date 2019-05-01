@@ -1,4 +1,4 @@
-#修改了
+# 修改了video_demo.py
 
 # A PyTorch implementation of a YOLO v3 Object Detector
 
